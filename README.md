@@ -1,2 +1,5 @@
 # Assignment2_DAI
 Assignment 2 of DAI-101 course
+ENROLL :- 23117130
+SUB-BATCH :- ME6
+NAME :- SHAH GUNJAN MANOJKUMAR
